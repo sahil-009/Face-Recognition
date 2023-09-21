@@ -1,2 +1,2 @@
 # Face-Recognition
-Face Recognition using pthon cv2
+Face Recognition using python cv2
